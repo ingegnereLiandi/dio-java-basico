@@ -2,3 +2,5 @@
 Repositorio para armazenar todos os conteudos do curso de Java
 
 Alterando o conteudo de um arquivo de forma local
+
+Excluindo uma pasta extra .md
